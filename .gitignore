@@ -1,0 +1,16 @@
+# Machines virtuelles
+VMs/
+
+# Images ISO
+ISO/
+
+# Fichiers sensibles
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Fichiers temporaires
+*.tmp
+*.log
